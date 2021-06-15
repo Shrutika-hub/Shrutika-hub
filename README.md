@@ -1,0 +1,13 @@
+### Hi there, I am Shrutika Wagh very close to complete my diploma education in Computer Engineering. 👋
+
+- 🔭 I’m currently working on [Website] [Python] [PHP]
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate with contents of others.
+- 🤔 I’m looking for help with 
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+
